@@ -1,3 +1,3 @@
 # Crooked_Casino_Dice
-
-# EBAL VANU
+# Description
+Casino website with crush, roulett and sapper
